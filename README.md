@@ -16,4 +16,4 @@ Todos eles são encontrados no CPAN
 ---------------
 
 Créditos total ao site www.crimeflare.com por tornar possível este script funcionar.
-Créditos também ao Cleiton Pinheiro ( Inurl ) por ter me mostrado um vídeo que me deu esta ideia.
+Créditos também ao GoogleINURL por ter me mostrado um vídeo que me deu esta ideia.
