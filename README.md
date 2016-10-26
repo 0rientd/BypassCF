@@ -13,6 +13,12 @@ Todos eles são encontrados no CPAN
 
 -> http://www.cpan.org/
 
+# Instalação
+### Download
+`git clone https://github.com/HackerOrientado/BypassCF`
+### Dependências
+`cpan install WWW::Mechanize utf8 Getopt::Long`
+
 ---------------
 
 Créditos total ao site www.crimeflare.com por tornar possível este script funcionar.
